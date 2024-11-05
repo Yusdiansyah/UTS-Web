@@ -18,11 +18,11 @@
 &nbsp;
 
 # Halaman Tabel
-### Tabel 1
+## Tabel 1
 ![Alt Text](assets/img/Worldlocalhost.png)
 &nbsp;
-### Tabel 2
+## Tabel 2
 ![Alt Text](assets/img/MSIlocalhost.png)
 &nbsp;
-### Tabel 3
+## Tabel 3
 ![Alt Text](assets/img/LCKlocalhost.png)
